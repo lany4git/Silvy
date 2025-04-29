@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Welcome to my cyberpunk world.
+title: Welcome
 ---
 
 This is a blank Quartz installation.
