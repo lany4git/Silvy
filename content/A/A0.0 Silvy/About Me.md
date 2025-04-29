@@ -5,4 +5,4 @@ tags:
   - 
 ---
 
-![[Silvy.png]]
+![[content/1.0/Silvy.png]]
