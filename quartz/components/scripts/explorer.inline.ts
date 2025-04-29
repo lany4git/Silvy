@@ -151,6 +151,7 @@ function createFolderNode(
 }
 
 async function setupExplorer(currentSlug: FullSlug) {
+  console.log("setupExplorer() running");
   const allExplorers = document.querySelectorAll("div.explorer") as NodeListOf<HTMLElement>
 
   for (const explorer of allExplorers) {
@@ -214,6 +215,7 @@ async function setupExplorer(currentSlug: FullSlug) {
 
       fragment.appendChild(node)
     }
+    explorerUl.innerHTML = ""
     explorerUl.insertBefore(fragment, explorerUl.firstChild)
 
     // restore explorer scrollTop position if it exists

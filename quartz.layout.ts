@@ -14,6 +14,16 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
+export const explorerInstance = Component.Explorer({
+  title: "Explorer",
+  folderClickBehavior: "collapse",
+  folderDefaultState: "collapsed",
+  useSavedState: true,
+  order: ["filter", "map", "sort"],
+})
+
+console.log(explorerInstance);
+
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
@@ -34,22 +44,31 @@ export const defaultContentPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
+        {
+          Component: Component.Darkmode(),
+        },
+        {
+          Component: Component.ReaderMode(),
+        },
       ],
     }),
-    Component.Explorer(),
+    explorerInstance,
   ],
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
-}
+};
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+
+// components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.Breadcrumbs(),
+    Component.ArticleTitle(),
+    Component.ContentMeta(),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -59,10 +78,11 @@ export const defaultListPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.Darkmode() },
+        {
+          Component: Component.Darkmode(),
+        },
       ],
     }),
-    Component.Explorer(),
   ],
   right: [],
-}
+};
