@@ -151,6 +151,7 @@ function createFolderNode(
 }
 
 async function setupExplorer(currentSlug: FullSlug) {
+  console.log("setupExplorer() running");
   const allExplorers = document.querySelectorAll("div.explorer") as NodeListOf<HTMLElement>
 
   for (const explorer of allExplorers) {
