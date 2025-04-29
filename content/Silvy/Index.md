@@ -4,6 +4,7 @@ longform:
   title: Silvy
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - About Me
   ignoredFiles: []
 ---
