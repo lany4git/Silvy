@@ -212,6 +212,10 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
 
 .explorer {
   @media all and ($mobile) {
+    .explorer {
+      padding-left: 2rem;
+    }
+    
     &.collapsed {
       flex: 0 0 34px;
 
