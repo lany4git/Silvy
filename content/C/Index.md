@@ -1,12 +1,11 @@
 ---
-draft: true
 longform:
   format: scenes
-  title: A
+  title: C
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - A0.0 About Silvy
-    - A3.0 Sublime
+    - C0.5 Steel Details
   ignoredFiles: []
+draft: true
 ---
