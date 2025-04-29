@@ -11,20 +11,18 @@ Read more about me here: [[A1.0 About Silvy|About Silvy]]
 
 ---
 
-## My Disciplines of Study
+# My Disciplines of Study
 
 Here are the main areas I immerse myself in and constantly seek to learn more about. Click on the links to explore each discipline:
-### Creative
-🔹[[Art]]
+## Creative
 ### Innovative
-### 🔹 [[Architecture]]
+### 🔹 [[F1.0 Architecture|Architecture]]
+### 🔹 [[Art]]
 ### 🔹[[Animation]]
 Animation is where art meets movement. I create vivid, immersive animations that tell stories, engage the imagination, and push the boundaries of creativity.
-
-### 🔹 [Writing](#)  
+### 🔹 [[Writing]]
 Words are my canvas. Whether it’s storytelling or poetic expression, writing allows me to communicate thoughts, ideas, and emotions in the most personal way.
-
-### 🔹 [Technology](#)  
+### 🔹 [[Technology]]
 I'm always exploring new technologies and how they can help shape the future of creative expression. From coding to virtual environments, technology plays a crucial role in how I bring my projects to life.
 
 ---
