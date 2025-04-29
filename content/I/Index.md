@@ -1,12 +1,11 @@
 ---
 longform:
   format: scenes
-  title: C
+  title: I
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - C1.01 Floor Plans
-    - C5.05 Steel Details
+    - I1.01 Floor Plans
   ignoredFiles: []
 draft: true
 ---
