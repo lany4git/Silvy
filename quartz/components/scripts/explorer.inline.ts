@@ -205,9 +205,6 @@ async function setupExplorer(currentSlug: FullSlug) {
     const explorerUl = explorer.querySelector(".explorer-ul")
     if (!explorerUl) continue
 
-    while (explorerUl.firstChild) {
-      explorerUl.removeChild(explorerUl.firstChild)
-
     // Create and insert new content
     const fragment = document.createDocumentFragment()
     for (const child of trie.children) {
@@ -217,7 +214,7 @@ async function setupExplorer(currentSlug: FullSlug) {
 
       fragment.appendChild(node)
     }
-    explorerUl.appendChild(fragment)
+    explorerUl.insertBefore(fragment, explorerUl.firstChild)
 
     // restore explorer scrollTop position if it exists
     const scrollTop = sessionStorage.getItem("explorerScrollTop")
