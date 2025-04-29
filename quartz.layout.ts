@@ -14,31 +14,16 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
-// Example sort, filter, and map functions
-const sortFn = (a, b) => a.name.localeCompare(b.name);
-const filterFn = (item) => true; // show all by default
-const mapFn = (item) => item;    // identity by default
-
-// create explorer once to prevent duplication when navigating between pages
 export const explorerInstance = Component.Explorer({
   title: "Explorer",
   folderClickBehavior: "collapse",
   folderDefaultState: "collapsed",
   useSavedState: true,
-  sortFn: undefined,
-  filterFn: undefined,
-  mapFn: undefined,
   order: ["filter", "map", "sort"],
 })
 
-// Browser-only nav updates
-if (typeof document !== "undefined") {
-  const navContainer = document.getElementById("nav");
-  if (navContainer) {
-    navContainer.innerHTML = ""; // clear previous items
-    renderNavItems();            // re-render nav items
-  }
-}
+console.log(explorerInstance);
+
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
@@ -67,7 +52,7 @@ export const defaultContentPageLayout: PageLayout = {
         },
       ],
     }),
-    explorerInstance, // ✅ Reusing shared instance of the Explorer component
+    explorerInstance,
   ],
   right: [
     Component.Graph(),
@@ -98,8 +83,6 @@ export const defaultListPageLayout: PageLayout = {
         },
       ],
     }),
-    explorerInstance, // ✅ Reuse your configured explorerInstance if defined
-    // or fallback to a simple default like: Component.Explorer()
   ],
   right: [],
 };
