@@ -25,11 +25,11 @@ export const explorerInstance = Component.Explorer({
   folderClickBehavior: "collapse",
   folderDefaultState: "collapsed",
   useSavedState: true,
-  sortFn,
-  filterFn,
-  mapFn,
+  sortFn: undefined,
+  filterFn: undefined,
+  mapFn: undefined,
   order: ["filter", "map", "sort"],
-});
+})
 
 // Browser-only nav updates
 if (typeof document !== "undefined") {
