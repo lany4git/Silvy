@@ -14,6 +14,18 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
+// create explorer once to prevent duplication when navigating between pages
+const explorerInstance = Component.Explorer({
+  title: "Explorer", // title of the explorer component
+  folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
+  folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
+  useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
+  sortFn: ...,         // your sort function
+  filterFn: ...,       // your filter function
+  mapFn: ...,          // your map function
+  order: ["filter", "map", "sort"], // order of operations
+});
+
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
@@ -38,25 +50,14 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({
-      title: "Explorer", // title of the explorer component
-      folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
-      folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
-      useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
-      // omitted but shown later
-      sortFn: ...,
-      filterFn: ...,
-      mapFn: ...,
-      // what order to apply functions in
-      order: ["filter", "map", "sort"],
-    }),
+    explorerInstance, // ✅ reusing shared instance here
   ],
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
-}
+};
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
