@@ -14,6 +14,10 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
+const navContainer = document.getElementById("nav");
+navContainer.innerHTML = ""; // clear previous items
+renderNavItems(); // re-render
+
 // create explorer once to prevent duplication when navigating between pages
 const explorerInstance = Component.Explorer({
   title: "Explorer", // title of the explorer component
