@@ -2,6 +2,7 @@
 draft: false
 title: Start Page
 ---
+![](GD_LDG1.png)
 # Welcome to My Digital Garden
 Welcome to my little corner of the digital world! This site is a collection of my passions, projects, and ideas. It's a space where I showcase my work across various fields: from architecture and design to music, animation, and creative writing. I'm excited to share my journey with you.
 ### About Me
@@ -15,7 +16,7 @@ Here are the main areas I immerse myself in and constantly seek to learn more ab
 ### 🔹 [[Art]]
 ### 🔹 [[Writing]]
 ## Innovative
-### 🔹 [[F1.0 Architecture|Architecture]]
+### 🔹 [[F3.0 Architecture|Architecture]]
 ### 🔹[[Animation]]
 ## Logical
 ### 🔹 [[Technology]]
