@@ -20,8 +20,9 @@ Here are the main areas I immerse myself in and constantly seek to learn more ab
 ## Logical
 ### 🔹 [[Technology]]
 ---
-## Featured Work
-Explore some of my recent work and projects across these fields.
+## Recent Work
+Explore some of my recent work and projects across different fields.
+- [[A4.0 Lany4's Digital Garden]]
 - [[A3.0 Sublime]]
 
 ---

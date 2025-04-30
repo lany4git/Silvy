@@ -8,5 +8,8 @@ longform:
   scenes:
     - A1.0 About Silvy
     - A3.0 Sublime
+    - A3.01 Haven
+    - A4.0 Lany4's Digital Garden
+    - A3.02 The Nettle
   ignoredFiles: []
 ---
