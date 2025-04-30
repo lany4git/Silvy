@@ -52,7 +52,7 @@ export const defaultContentPageLayout: PageLayout = {
         },
       ],
     }),
-    //explorerInstance, //Get rid of slashes to add
+    explorerInstance, //Get rid of slashes to add
   ],
   right: [
     Component.Graph(),
