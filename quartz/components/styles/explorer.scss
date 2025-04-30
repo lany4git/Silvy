@@ -47,12 +47,12 @@
   }
 
   @media all and ($mobile) {
-    order: -1;
-    height: 80vh;
-    overflow-y: auto;
+    order: 0;
+    height: initial;
+    overflow: hidden;
     flex-shrink: 0;
     align-self: flex-start;
-    margin-top: 60vh;
+    margin-top: auto;
     margin-bottom: auto;
   }
 

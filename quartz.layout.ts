@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/lany4git",
+      "Discord Community": "https://discord.gg/DN2MkhSEWE",
     },
   }),
 }
@@ -82,6 +82,15 @@ export const defaultListPageLayout: PageLayout = {
           Component: Component.Darkmode(),
         },
       ],
+    }),
+    Component.Explorer({
+      mapFn: (node) => {
+        if (node.isLongform) {
+          node.displayName = "✨ " + node.displayName;
+        } else {
+          node.displayName = "🟦 " + node.displayName;
+        }
+      },
     }),
   ],
   right: [],
