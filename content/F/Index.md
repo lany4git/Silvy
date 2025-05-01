@@ -5,6 +5,8 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
+    - F1.0 Life
+    - F2.0 Career
     - F3.0 Architecture
     - F4.0 Technology
     - F5.0 Music
