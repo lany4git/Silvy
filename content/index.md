@@ -15,17 +15,17 @@ To learn more about how I created my digital garden, go here: [[A4.0 Lany4's Dig
 # My Disciplines of Study
 Here are the main areas I immerse myself in and constantly seek to learn more about. Click on the links to explore each discipline:
 ## Creative
-##### ◽ [[Art]]
-##### ◽ [[Music]]
-##### ◽ [[Writing]]
+##### ◽ [[F6.0 Digital Art|Digital Art]]
+##### ◽ [[F5.0 Music|Music]]
+##### ◽ [[F9.0 Writing|Writing]]
 ## Innovative
-#####  ◽ [[Video]]
-##### ◽ [[Twitch]]
+#####  ◽ [[F7.0 Video|Video]]
+##### ◽ [[F10.0 Twitch|Twitch]]
 ##### ◽ [[F3.0 Architecture|Architecture]]
 ## Logical
-##### ◽ [[Technology]]
-##### ◽ [[Research]]
-##### ◽ [[Experiments]]
+##### ◽ [[F4.0 Technology|Technology]]
+##### ◽ [[F8.0 Research|Research]]
+##### ◽ [[F11.0 Experiments|Experiments]]
 
 ---
 ## Recent Work
