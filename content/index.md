@@ -9,7 +9,7 @@ Hey, I'm Silvy! Welcome to my little corner of the digital world! This site is a
 ## About Me
 I’m an avid learner, creator, and explorer. Whether I’m designing immersive architectural spaces, crafting melodies, or weaving stories, each discipline contributes to my creative growth. I believe in the power of multidisciplinary thinking and how each field can inform and inspire the others.
 Read more about me here: [[A1.0 About Silvy|About Silvy]].
-Check out my **digital resume** here: [[A2.0 Digital Resume|Resume]].
+Check out my digital resume here: [[A2.0 Digital Resume|Resume]].
 To learn more about how I created my digital garden, go here: [[A4.0 Lany4's Digital Garden|Digital Garden]]
 
 ---
@@ -31,8 +31,9 @@ Here are the main areas I immerse myself in and constantly seek to learn more ab
 ---
 ## Recent Work
 Explore some of my recent work and projects across different fields.
-- [[A4.0 Lany4's Digital Garden]]
-- [[A3.0 Sublime]]
+- [[A4.0 Lany4's Digital Garden]] - took 2 days
+- [[A3.02 The Nettle]] - took 3 months
+- [[A3.0 Sublime]] - took 2 months
 
 ---
 ## Stay Connected
