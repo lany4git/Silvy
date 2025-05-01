@@ -36,7 +36,3 @@ Explore some of my recent work and projects across different fields.
 ## Stay Connected
 I would love to connect and collaborate! Feel free to send a message below or check out my [GitHub](https://github.com/lany4git) and [Discord Community](https://discord.gg/DN2MkhSEWE).
 Thank you for visiting, and I hope you enjoy exploring my creative universe!
-
----
-### Make your own Quartz Website
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
