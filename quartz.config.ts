@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Lany4's Digital Garden",
-    pageTitleSuffix: "Alias: Lanya (*Blue Elegance* in Mandarin)",
+    pageTitleSuffix: " | Made by Silvy",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

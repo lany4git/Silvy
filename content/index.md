@@ -2,6 +2,7 @@
 draft: false
 title: Start Page
 ---
+
 # Welcome to My Digital Garden
 
 Hey, I'm Silvy! Welcome to my little corner of the digital world! This site is a collection of my passions, projects, and ideas. It's a space where I showcase my work across various fields: from architecture and design to music, animation, and creative writing. I'm excited to share my journey with you.
