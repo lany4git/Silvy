@@ -12,5 +12,6 @@ longform:
     - A3.01 Haven
     - A3.02 The Nettle
     - A4.0 Lany4's Digital Garden
+    - A5.0 Nostrealis
   ignoredFiles: []
 ---
