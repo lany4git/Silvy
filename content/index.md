@@ -4,10 +4,11 @@ title: Start Page
 ---
 # Welcome to My Digital Garden
 Hey, I'm Silvy! Welcome to my little corner of the digital world! This site is a collection of my passions, projects, and ideas. It's a space where I showcase my work across various fields: from architecture and design to music, animation, and creative writing. I'm excited to share my journey with you.
-### About Me
+## About Me
 I’m an avid learner, creator, and explorer. Whether I’m designing immersive architectural spaces, crafting melodies, or weaving stories, each discipline contributes to my creative growth. I believe in the power of multidisciplinary thinking and how each field can inform and inspire the others.
-Read more about me here: [[A1.0 About Silvy|About Silvy]]
-Check out my **digital resume** here: [[A2.0 Digital Resume|Resume]]
+Read more about me here: [[A1.0 About Silvy|About Silvy]].
+Check out my **digital resume** here: [[A2.0 Digital Resume|Resume]].
+To learn more about how I created my digital garden, go here: [[A4.0 Lany4's Digital Garden|Digital Garden]]
 
 ---
 # My Disciplines of Study
