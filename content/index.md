@@ -2,7 +2,8 @@
 draft: false
 title: Start Page
 ---
-![[DART_Levi1.png]]
+![](DART_Levi.png)
+*Above: Concept art that I call [[A6.0 Daimond Realm|Diamond Realm]]
 # Welcome to My Digital Garden
 
 Hey, I'm Silvy! Welcome to my little corner of the digital world! This site is a collection of my passions, projects, and ideas. It's a space where I showcase my work across various fields: from architecture and design to music, animation, and creative writing. I'm excited to share my journey with you.
