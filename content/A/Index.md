@@ -15,5 +15,6 @@ longform:
     - A4.0 Lany4's Digital Garden
     - A5.0 Nostrealis
     - A6.0 Diamond Realm
+    - A3.04 Restore
   ignoredFiles: []
 ---
