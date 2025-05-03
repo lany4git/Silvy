@@ -10,11 +10,11 @@ longform:
     - A2.0 Digital Resume
     - A3.0 Sublime
     - A3.01 Haven
-    - A3.03 Helix
     - A3.02 The Nettle
+    - A3.03 Helix
+    - A3.04 Restore
     - A4.0 Lany4's Digital Garden
     - A5.0 Nostrealis
     - A6.0 Diamond Realm
-    - A3.04 Restore
   ignoredFiles: []
 ---
