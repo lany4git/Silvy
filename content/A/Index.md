@@ -7,6 +7,7 @@ longform:
   sceneFolder: /
   scenes:
     - A1.0 About Silvy
+    - A1.01 Food Bucket List
     - A2.0 Digital Resume
     - A3.0 Sublime
     - A3.01 Haven
