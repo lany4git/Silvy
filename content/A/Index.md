@@ -21,5 +21,6 @@ longform:
     - A10.2 Discord
     - A10.3 Vtuber
     - A10.4 Affiliate
+    - A5.01 Collaboration
   ignoredFiles: []
 ---
