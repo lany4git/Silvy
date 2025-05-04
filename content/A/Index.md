@@ -18,5 +18,8 @@ longform:
     - A6.0 Diamond Realm
     - A10.0 Commands
     - A10.1 Improvements
+    - A10.2 Discord
+    - A10.3 Vtuber
+    - A10.4 Affiliate
   ignoredFiles: []
 ---
