@@ -11,6 +11,7 @@ longform:
     - T9.0 Photoshop
     - T9.01 FL Studio
     - T9.02 LogicX
+    - T9.03 Lumion
   ignoredFiles: []
 draft: true
 ---
