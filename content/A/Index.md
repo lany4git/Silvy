@@ -7,6 +7,7 @@ longform:
   sceneFolder: /
   scenes:
     - A1.0 About Silvy
+    - A1.01 Schedule
     - A1.02 Food Bucket List
     - A2.0 Digital Resume
     - A3.0 Sublime
@@ -23,6 +24,5 @@ longform:
     - A10.3 Vtuber
     - A10.4 Affiliate
     - A5.01 Collaboration
-    - A1.01 Schedule
   ignoredFiles: []
 ---
