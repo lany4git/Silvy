@@ -8,7 +8,7 @@ longform:
   scenes:
     - A1.0 About Silvy
     - A1.01 Schedule
-    - A1.02 Food Bucket List
+    - A1.02 Trying Food
     - A2.0 Digital Resume
     - A3.0 Sublime
     - A3.01 Haven

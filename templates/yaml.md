@@ -1,5 +1,5 @@
 ---
-name: I1.01 Floor Plans
+name: <% tp.file.title %>
 description: 
 area: 
 priority: 
@@ -19,5 +19,3 @@ time_log:
 tags: 
 song:
 ---
-![](DRW_Mend1.png)
-![](DRW_Mend2.png)

@@ -1,28 +1,30 @@
 ---
-focus_name: F7.0 Video
-description: a hobby I enjoy
-domain: Focus
-priority: low
+focus_name: <% tp.file.title %>
+description: 
+domain: Focus 
+priority: 
 completed_on: 
-last_update: 2025-05-10 12:36
-started_on: 2025-05-10 12:36
+last_update: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+started_on: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 estimated_time: 
-actual_time: 
-hourly_rate: 
-income: 
-expenses: 
+actual_time:
+hourly_rate:
+income:
+expenses:
 team: false
 skills: 
+  -
 completed: false
 inspiration: 
 time_log: 
+  -
 tags: 
 song:
 ---
 
 # **📋 Focus Overview Table (DataviewJS)**
 ```dataviewjs
-const pages = dv.pages('"content"').filter(p => (p.area ?? []).includes("Video"));
+const pages = dv.pages('"content"').filter(p => (p.area ?? []).includes("-"));
 
 const rows = pages.map(p => {
   const timeLog = p.time_log || [];
