@@ -7,7 +7,7 @@ cssclasses:
 
 ![750](CI_Welcome.png)
 
-**Thank you** for stopping by! Remember you are always welcome. It doesn't matter if you haven't watched me for months. I will always be kind to you (unless you're causing unnecessary suffering to others). Feel free to join my [[A10.2 Discord|Discord]]) server if you'd like to chat with me, or if you would like to help me grow my community. I'm so happy that you're here! I'm using my stream breaks to stay organized, preparing for more effective communication and optimizing my workflow so I can actually help people. 
+**Thank you** for stopping by! You're always welcome here, whether it's been months or just a moment. No judgment, just kindness (as long as we treat each other well). Feel free to join my [[A10.2 Discord|Discord]] if you’d like to chat or help grow the community. I’m really glad you’re here!
 
 **Follow** my [[F10.0 Twitch|Twitch]] so you can 
 1. know when I start taking **business inquiries** 
