@@ -5,7 +5,7 @@ cssclasses:
   - center-images
 ---
 
-![750](CI_Welcome.png)
+![](CI_Welcome.png)
 
 **Thank you** for stopping by! You're always welcome here, whether it's been months or just a moment. No judgment, just kindness (as long as we treat each other well). Feel free to join my [[A10.2 Discord|Discord]] if you’d like to chat or help grow the community. I’m really glad you’re here!
 
@@ -18,10 +18,7 @@ cssclasses:
 6. very occasionally watch me play **minecraft, RPGs**, or **other story games**
 
 ---
-![](RND_Nettle5.png)
-*Above: Recently updated: [[A3.02 The Nettle|Nettle]]*
-# Welcome to My Digital Garden
-Hey, I'm Silvy! Welcome to my little corner of the digital world! This site is a collection of my passions, projects, and ideas. It's a space where I showcase my work across various fields: from architecture and design to music, animation, and creative writing. I'm excited to share my journey with you.
+
 ## About Me
 I’m an avid learner, creator, and explorer. Whether I’m designing immersive architectural spaces, crafting melodies, or weaving stories, each discipline contributes to my creative growth. I believe in the power of multidisciplinary thinking and how each field can inform and inspire the others.
 Read more about me here: [[A1.0 About Silvy|About Silvy]].
@@ -48,7 +45,8 @@ Here are the main areas I immerse myself in and constantly seek to learn more ab
 ## Recent Work
 Explore some of my recent work and projects across different fields.
 - [[A4.0 Lany4's Digital Garden]] - took 2 days
-- [[A3.02 The Nettle]] - took 3 months
+- (Shown below) [[A3.02 The Nettle]] - took 3 months
+![](RND_Nettle5.png)
 - [[A3.0 Sublime]] - took 2 months
 
 ---
