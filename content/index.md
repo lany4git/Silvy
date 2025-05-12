@@ -5,7 +5,8 @@ cssclasses:
   - center-images
 ---
 
-![](CI_Welcome.png)
+![750](CI_Welcome.png)
+
 **Thank you** for stopping by! Remember you are always welcome. It doesn't matter if you haven't watched me for months. I will always be kind to you (unless you're causing unnecessary suffering to others). Feel free to join my [[A10.2 Discord|Discord]]) server if you'd like to chat with me, or if you would like to help me grow my community. I'm so happy that you're here! I'm using my stream breaks to stay organized, preparing for more effective communication and optimizing my workflow so I can actually help people. 
 
 **Follow** my [[F10.0 Twitch|Twitch]] so you can 
