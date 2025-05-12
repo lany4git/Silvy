@@ -15,8 +15,7 @@ cssclasses:
 3. grow alongside me to become the **best versions of ourselves** - without the guru / self-help advice
 4. want to be updated on my **coding, language-learning progress**
 5. want to stay tuned for my upcoming **bookclub**
-6. learn about difficult subjects with someone who is good at explaining things to teenagers (I'm a former camp counselor)
-7. very occasionally watch me play **minecraft, RPGs**, or **other story games**
+6. very occasionally watch me play **minecraft, RPGs**, or **other story games**
 
 ---
 ![](RND_Nettle5.png)
