@@ -1,11 +1,26 @@
 ---
 draft: false
 title: Start Page
+cssclasses:
+  - center-images
+---
+
+![](CI_Welcome.png)
+**Thank you** for stopping by! Remember you are always welcome. It doesn't matter if you haven't watched me for months. I will always be kind to you (unless you're causing unnecessary suffering to others). Feel free to join my [[A10.2 Discord|Discord]]) server if you'd like to chat with me, or if you would like to help me grow my community. I'm so happy that you're here! I'm using my stream breaks to stay organized, preparing for more effective communication and optimizing my workflow so I can actually help people. 
+
+**Follow** my [[F10.0 Twitch|Twitch]] so you can 
+1. know when I start taking **business inquiries** 
+2. learn more about how I go about my **creative process**
+3. grow alongside me to become the **best versions of ourselves** - without the guru / self-help advice
+4. want to be updated on my **coding, language-learning progress**
+5. want to stay tuned for my upcoming **bookclub**
+6. learn about difficult subjects with someone who is good at explaining things to teenagers (I'm a former camp counselor)
+7. if you like watching people very occasionally play **minecraft, RPGs**, or 
+
 ---
 ![](RND_Nettle5.png)
 *Above: Recently updated: [[A3.02 The Nettle|Nettle]]*
 # Welcome to My Digital Garden
-
 Hey, I'm Silvy! Welcome to my little corner of the digital world! This site is a collection of my passions, projects, and ideas. It's a space where I showcase my work across various fields: from architecture and design to music, animation, and creative writing. I'm excited to share my journey with you.
 ## About Me
 I’m an avid learner, creator, and explorer. Whether I’m designing immersive architectural spaces, crafting melodies, or weaving stories, each discipline contributes to my creative growth. I believe in the power of multidisciplinary thinking and how each field can inform and inspire the others.
