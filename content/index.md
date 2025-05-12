@@ -15,7 +15,7 @@ cssclasses:
 4. want to be updated on my **coding, language-learning progress**
 5. want to stay tuned for my upcoming **bookclub**
 6. learn about difficult subjects with someone who is good at explaining things to teenagers (I'm a former camp counselor)
-7. if you like watching people very occasionally play **minecraft, RPGs**, or 
+7. very occasionally watch me play **minecraft, RPGs**, or **other story games**
 
 ---
 ![](RND_Nettle5.png)
