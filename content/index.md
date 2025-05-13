@@ -10,13 +10,12 @@ cssclasses:
 **Thank you** for stopping by! You're always welcome here, whether it's been months or just a moment. No judgment, just kindness (as long as we treat each other well). Feel free to join my [[A10.2 Discord|Discord]] if you’d like to chat or help grow the community. I’m really glad you’re here!
 
 **Follow** my [[F10.0 Twitch|Twitch]] so you can 
-1. know when I start taking **business inquiries** 
-2. learn more about how I go about my **creative process**
-3. grow alongside me to become the **best versions of ourselves** - without the guru / self-help advice
-4. want to be updated on my **coding, language-learning progress**
-5. want to stay tuned for my upcoming **bookclub**
-6. very occasionally watch me play **minecraft, RPGs**, or **other story games**
-
+1. know when I start taking business inquiries
+2. learn more about how I go about my creative process
+3. grow alongside me to become the best versions of ourselves
+4. want to be updated on my coding process
+5. want to stay tuned for my upcoming bookclub
+6. very occasionally watch me play minecraft/rpg/story games
 ---
 
 ## About Me
