@@ -15,9 +15,9 @@ I’m an avid learner, creator, and explorer. Whether I’m designing immersive 
 
 ---
 
-Read more about me [[A1.0 About Silvy|HERE]]
-Check out my digital resume [[A2.0 Digital Resume|HERE]]
-To learn more about how I created my digital garden, go [[A4.0 Lany4's Digital Garden|HERE]]
+- Read more about me [[A1.0 About Silvy|HERE]]
+- Check out my digital resume [[A2.0 Digital Resume|HERE]]
+- To learn more about how I created my digital garden, go [[A4.0 Lany4's Digital Garden|HERE]]
 
 ---
 ## Recent Work
