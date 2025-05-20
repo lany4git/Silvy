@@ -9,36 +9,15 @@ cssclasses:
 
 **Thank you** for stopping by! You're always welcome here, whether it's been months or just a moment. No judgment, just kindness (as long as we treat each other well). Feel free to join my [[A10.2 Discord|Discord]] if you’d like to chat or help grow the community. I’m really glad you’re here!
 
-**Follow** my [[F10.0 Twitch|Twitch]] so you can 
-1. know when I start taking business inquiries
-2. learn more about how I go about my creative process
-3. grow alongside me to become the best versions of ourselves
-4. want to be updated on my coding process
-5. want to stay tuned for my upcoming bookclub
-6. very occasionally watch me play minecraft/rpg/story games
 ---
-
 ## About Me
-I’m an avid learner, creator, and explorer. Whether I’m designing immersive architectural spaces, crafting melodies, or weaving stories, each discipline contributes to my creative growth. I believe in the power of multidisciplinary thinking and how each field can inform and inspire the others.
-Read more about me here: [[A1.0 About Silvy|About Silvy]].
-Check out my digital resume here: [[A2.0 Digital Resume|Resume]].
-To learn more about how I created my digital garden, go here: [[A4.0 Lany4's Digital Garden|Digital Garden]]
+I’m an avid learner, creator, and explorer. Whether I’m designing immersive architectural spaces, crafting melodies, or weaving stories, each discipline contributes to my creative growth. I believe in the power of multidisciplinary thinking and how each field can inform and inspire the others. My hobbies and activities fall under these domains: [[F6.0 Digital Art|digital art]], [[F5.0 Music|music]], [[F9.0 Writing|writing]], [[F7.0 Video|video]], [[F10.0 Twitch|twitch streaming]], [[F3.0 Architecture|architecture]], [[F4.0 Technology|technology]], [[F8.0 Research|research]], and [[F11.0 Experiments|experiments]]. The name Lanya 蓝雅 (rhymes with (On-yah) is Mandarin for "blue elegance". I also go by Silvy, my nickname.
 
 ---
-# My Disciplines of Study
-Here are the main areas I immerse myself in and constantly seek to learn more about. Click on the links to explore each discipline:
-## Creative
-##### ◽ [[F6.0 Digital Art|Digital Art]]
-##### ◽ [[F5.0 Music|Music]]
-##### ◽ [[F9.0 Writing|Writing]]
-## Innovative
-#####  ◽ [[F7.0 Video|Video]]
-##### ◽ [[F10.0 Twitch|Twitch]]
-##### ◽ [[F3.0 Architecture|Architecture]]
-## Logical
-##### ◽ [[F4.0 Technology|Technology]]
-##### ◽ [[F8.0 Research|Research]]
-##### ◽ [[F11.0 Experiments|Experiments]]
+
+Read more about me [[A1.0 About Silvy|HERE]]
+Check out my digital resume [[A2.0 Digital Resume|HERE]]
+To learn more about how I created my digital garden, go [[A4.0 Lany4's Digital Garden|HERE]]
 
 ---
 ## Recent Work
