@@ -7,6 +7,8 @@ cssclasses:
 
 ![](MB_2025.png)
 **Thank you** for stopping by! You're always welcome here, whether it's been months or just a moment. No judgment, just kindness (as long as we treat each other well). Feel free to join my [[A10.2 Discord|Discord]] if you’d like to chat or help grow the community. I’m really glad you’re here!
+
+---
 ![](CI_Welcome.png)
 
 ---
@@ -24,8 +26,8 @@ I’m an avid learner, creator, and explorer. Whether I’m designing immersive 
 Explore some of my recent work and projects across different fields.
 - [[A4.0 Lany4's Digital Garden]] - took 2 days
 - (Shown below) [[A3.02 The Nettle]] - took 3 months
+---
 ![](RND_Nettle5.png)
-- [[A3.0 Sublime]] - took 2 months
 
 ---
 ## Stay Connected
