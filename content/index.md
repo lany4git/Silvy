@@ -6,7 +6,7 @@ cssclasses:
 ---
 
 ![](CI_Welcome.png)
-
+![](MB_2025.png)
 **Thank you** for stopping by! You're always welcome here, whether it's been months or just a moment. No judgment, just kindness (as long as we treat each other well). Feel free to join my [[A10.2 Discord|Discord]] if you’d like to chat or help grow the community. I’m really glad you’re here!
 
 ---
