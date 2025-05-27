@@ -35,10 +35,10 @@
   .center {
     grid-column: 1 / -1 !important;  /* full width */
     width: 100% !important;
-    max-width: none !important;
+    max-width: 1400px !important;
     margin: 0 auto;
     padding-left: 3rem;  /* <-- increase this */
-    padding-right: 1rem;
+    padding-right: 3rem;
     box-sizing: border-box;
     transition: all 0.3s ease;
   }
@@ -50,7 +50,7 @@
   .main-content,
   .page-content {
     width: 100% !important;
-    max-width: none !important;
+    max-width: 1100px !important;
     margin: 0 auto;
     box-sizing: border-box;
   }
@@ -59,10 +59,11 @@
     .content img,
     .main-content img,
     .page-content img {
+      width: 100% !important;
+      max-width: none !important;
       display: block;      /* Removes inline spacing */
       margin-left: auto;   /* Pushes image right */
       margin-right: auto;  /* Pushes image left */
-      max-width: 100%;     /* Make images responsive */
       height: auto;
     }
 }

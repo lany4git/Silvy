@@ -80,6 +80,19 @@ article {
   }
 }
 
+    /* Center images */
+    .center img,
+    .content img,
+    .main-content img,
+    .page-content img {
+      width: 100% !important;
+      max-width: none !important;
+      display: block;      /* Removes inline spacing */
+      margin-left: auto;   /* Pushes image right */
+      margin-right: auto;  /* Pushes image left */
+      height: auto;
+    }
+
 strong {
   font-weight: $semiBoldWeight;
 }
@@ -272,8 +285,8 @@ a {
 
     & .center,
     & footer {
-      max-width: 100%;
-      min-width: 100%;
+      max-width: 1200px;
+      min-width: 100px;
       margin-left: auto;
       margin-right: auto;
       @media all and ($tablet) {
