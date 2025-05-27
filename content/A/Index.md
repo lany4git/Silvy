@@ -16,7 +16,7 @@ longform:
     - A3.03 Helix
     - A3.04 Restore
     - A4.0 Lany4's Digital Garden
-    - A5.0 Nostrealis
+    - A5.0 The Nostalgia
     - A6.0 Diamond Realm
     - A10.0 Commands
     - A10.1 Improvements
