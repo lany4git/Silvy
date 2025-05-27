@@ -18,14 +18,12 @@ body {
   transition: background-image 0.3s ease;
 }
 
-/* Light mode background */
 :root[color-mode="light"] body {
-  background-image: url(//Users/Janeve/Silvy/public/static/DART_Levi_Light.png);
+  background-image: url("/DART_Levi_Light.png");
 }
 
-/* Dark mode background */
 :root[color-mode="dark"] body {
-  background-image: url(/Users/Janeve/Silvy/public/static/DART_Levi_Dark.png);
+  background-image: url("/DART_Levi_Dark.png");
 }
 
 section {
