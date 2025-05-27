@@ -11,21 +11,7 @@ html {
   width: 100vw;
 }
 
-body {
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  transition: background-image 0.3s ease;
-}
-
-:root[color-mode="light"] body {
-  background-image: pink !important;
-}
-
-:root[color-mode="dark"] body {
-  background-image: url("/DART_Levi_Dark.png");
-}
-
+body,
 section {
   margin: 0;
   box-sizing: border-box;

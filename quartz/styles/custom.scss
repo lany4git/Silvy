@@ -1,1 +1,16 @@
 @use "./base.scss";
+
+html[saved-theme="dark"] body {
+    background-image: url("/DART_Levi_Dark.png") !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+  }
+  
+  html[saved-theme="light"] body {
+    background-image: url("/DART_Levi_Light.png") !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+  }
+  

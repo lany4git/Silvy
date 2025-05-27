@@ -14,8 +14,9 @@
   transition: 0.2s;
 
   & > svg {
+    stroke: pink;
     fill: pink;
-    filter: contrast(0.3);
+    filter: none;
   }
 
   &:hover {
