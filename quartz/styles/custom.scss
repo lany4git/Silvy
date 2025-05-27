@@ -1,22 +1,22 @@
 @use "./base.scss";
 
 body {
-    background-color: transparent !important;
-  }
-  
-  html[saved-theme="dark"] {
-    background-image: url("/static/DART_Levi_Dark.png");
-    background-repeat: repeat-y !important;
-    background-position: top center;
-    background-size: cover;
-  }
-  
-  html[saved-theme="light"] {
-    background-image: url("/static/DART_Levi_Light.png");
-    background-repeat: repeat-y !important;
-    background-position: top center;
-    background-size: cover;
-  }
+  background-color: transparent !important;
+}
+
+html[saved-theme="dark"] {
+  background-image: url("/static/DART_Levi_Dark.png");
+  background-repeat: repeat-y;
+  background-position: top center;
+  background-size: 100% auto; // width fills window, height stays proportional
+}
+
+html[saved-theme="light"] {
+  background-image: url("/static/DART_Levi_Light.png");
+  background-repeat: repeat-y;
+  background-position: top center;
+  background-size: 100% auto; // same here
+}
   
   
   
