@@ -18,5 +18,37 @@ html[saved-theme="light"] {
   background-size: 100% auto; // same here
 }
   
-  
-  
+#quartz-body {
+  display: grid;
+  grid-template-columns: 250px minmax(0, 1fr) 250px;
+  grid-template-areas:
+    "grid-sidebar-left grid-center grid-sidebar-right"
+    "grid-header grid-header grid-header"
+    "grid-footer grid-footer grid-footer";
+  column-gap: 2rem;
+  row-gap: 2rem;
+  width: 100%;
+  max-width: 100%;
+}
+
+.center {
+  grid-area: grid-center;
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.center > article {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+footer {
+  grid-area: grid-footer;
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+}
