@@ -6,10 +6,6 @@ cssclasses:
 ---
 
 ![](MB_2025.png)
-**Thank you** for stopping by! You're always welcome here. Feel free to join my [[A10.2 Discord|Discord]] if you’d like to chat. I’m really glad you’re here!
-
----
-![](CI_Welcome.png)
 
 ---
 ## About Me
@@ -27,7 +23,7 @@ Explore some of my recent work and projects across different fields.
 - [[A4.0 Lany4's Digital Garden]] - took 2 days
 - (Shown below) [[A3.02 The Nettle]] - took 3 months
 ---
-![](RND_Nettle5.png)
+![](RND_Nettle17.png)
 
 ---
 ## Stay Connected

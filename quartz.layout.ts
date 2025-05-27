@@ -27,45 +27,70 @@ console.log(explorerInstance);
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.ConditionalRender({
-      component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "index",
-    }),
+    //Component.ConditionalRender({
+    //  component: Component.Breadcrumbs(),
+    //  condition: (page) => page.fileData.slug !== "index",
+    //}),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
+    Component.Flex({
+      components: [
+        {
+          Component: Component.ContentMeta(),
+        },
+        {
+          Component: Component.ReaderMode(),
+        }
+      ]
+  })
   ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
+        // {
+        //   Component: Component.Search(),
+        //   grow: true,
+        // },
         {
           Component: Component.Darkmode(),
         },
-        {
-          Component: Component.ReaderMode(),
-        },
       ],
-    }),
-    //explorerInstance, //Get rid of slashes to add
+    }),    
+    Component.TagList(),
+    //explorerInstance,
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      localGraph: {
+        drag: false,
+        zoom: true,
+        depth: 1,
+        scale: 1.1,
+        repelForce: 0.3,
+        centerForce: 0.3,
+        linkDistance: 30,
+        fontSize: 1,
+        opacityScale: 1,
+        removeTags: [],
+        showTags: false,
+        enableRadial: false,
+      },
+      globalGraph: {
+        depth: 2,
+        showTags: false,
+        enableRadial: false,
+      }
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 };
 
-
 // components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
-    Component.Breadcrumbs(),
+    // Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
   ],
@@ -83,15 +108,15 @@ export const defaultListPageLayout: PageLayout = {
         },
       ],
     }),
-    Component.Explorer({
-      mapFn: (node) => {
-        if (node.isLongform) {
-          node.displayName = "✨ " + node.displayName;
-        } else {
-          node.displayName = "🟦 " + node.displayName;
-        }
-      },
-    }),
+    // Component.Explorer({
+    //  mapFn: (node) => {
+    //    if (node.slug?.startsWith("content/")) {
+    //      node.displayName = "✨ " + node.displayName;
+    //    } else {
+    //      node.displayName = "🟦 " + node.displayName;
+    //    }
+    //  },
+    // }),
   ],
   right: [],
 };

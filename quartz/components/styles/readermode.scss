@@ -21,13 +21,48 @@
 }
 
 :root[reader-mode="on"] {
-  & .sidebar.left,
-  & .sidebar.right {
-    opacity: 0;
-    transition: opacity 0.2s ease;
-
-    &:hover {
-      opacity: 1;
-    }
+  .page {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
   }
+
+  /* Hide sidebars */
+  .sidebar.left,
+  .sidebar.right {
+    display: none !important;
+  }
+
+  .center {
+    grid-column: 1 / -1 !important;  /* full width */
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 auto;
+    padding-left: 3rem;  /* <-- increase this */
+    padding-right: 1rem;
+    box-sizing: border-box;
+    transition: all 0.3s ease;
+  }
+
+  /* Inner wrappers */
+  .center > *,
+  .content,
+  .main,
+  .main-content,
+  .page-content {
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 auto;
+    box-sizing: border-box;
+  }
+    /* Center images */
+    .center img,
+    .content img,
+    .main-content img,
+    .page-content img {
+      display: block;      /* Removes inline spacing */
+      margin-left: auto;   /* Pushes image right */
+      margin-right: auto;  /* Pushes image left */
+      max-width: 100%;     /* Make images responsive */
+      height: auto;
+    }
 }

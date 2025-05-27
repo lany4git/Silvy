@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "Lany4's Digital Garden",
     pageTitleSuffix: " | Made by Silvy",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: {
       provider: "plausible",
     },
@@ -29,15 +29,15 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#5f3952",
-          lightgray: "#c45393",
-          gray: "#fff3fb",
-          darkgray: "#fff3fb",
-          dark: "#fff3fb",
-          secondary: "#fff3fb",
-          tertiary: "#ff89d0",
-          highlight: "#924677",
-          textHighlight: "#f23688",
+          light: "#742f41",
+          lightgray: "#cb5473",
+          gray: "#ffe9ef",
+          darkgray: "#ffccd3",
+          dark: "#f24270",
+          secondary: "#f24270",
+          tertiary: "#ff7498",
+          highlight: "#9b2b48",
+          textHighlight: "#f23466",
         },
         darkMode: {
           light: "#1a2020",
