@@ -1,16 +1,22 @@
 @use "./base.scss";
 
-html[saved-theme="dark"] {
-    background-image: url("/DART_Levi_Dark.png");
-    background-repeat: no-repeat;
+body {
+    background-color: transparent !important;
+  }
+  
+  html[saved-theme="dark"] {
+    background-image: url("/static/DART_Levi_Dark.png");
+    background-repeat: repeat-y;
+    background-position: top center;
     background-size: cover;
-    background-position: center;
   }
   
   html[saved-theme="light"] {
-    background-image: url("/DART_Levi_Light.png");
-    background-repeat: no-repeat;
+    background-image: url("/static/DART_Levi_Light.png");
+    background-repeat: repeat-y;
+    background-position: top center;
     background-size: cover;
-    background-position: center;
   }
+  
+  
   
