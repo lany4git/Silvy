@@ -6,6 +6,7 @@ longform:
   sceneFolder: /
   scenes:
     - F1.0 Life
+    - F1.1 Blog
     - F2.0 Career
     - F3.0 Architecture
     - F4.0 Technology
@@ -17,6 +18,7 @@ longform:
     - F10.0 Twitch
     - F11.0 Experiments
   ignoredFiles:
+    - Untitled
     - Untitled
 draft: true
 ---

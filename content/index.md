@@ -9,14 +9,12 @@ cssclasses:
 
 ---
 ## About Me
-I’m an avid learner, creator, and explorer. Whether I’m designing immersive architectural spaces, crafting melodies, or weaving stories, each discipline contributes to my creative growth. I believe in the power of multidisciplinary thinking and how each field can inform and inspire the others. My hobbies and activities fall under these domains: [[F6.0 Digital Art|digital art]], [[F5.0 Music|music]], [[F9.0 Writing|writing]], [[F7.0 Video|video]], [[F10.0 Twitch|twitch streaming]], [[F3.0 Architecture|architecture]], [[F4.0 Technology|technology]], [[F8.0 Research|research]], and [[F11.0 Experiments|experiments]]. The name Lanya 蓝雅 (rhymes with (On-yah) is Mandarin for "blue elegance". I also go by Silvy, my nickname.
+I’m an avid learner, creator, and explorer. Whether I’m designing immersive architectural spaces, crafting melodies, or weaving stories, each discipline contributes to my creative growth. I believe in the power of multidisciplinary thinking and how each field can inform and inspire the others. My hobbies and activities fall under these domains: [[F6.0 Digital Art|digital art]], [[F5.0 Music|music]], [[F9.0 Writing|writing]] ([[F1.1 Blog|blogging]]), [[F7.0 Video|video]], [[F10.0 Twitch|twitch streaming]], [[F3.0 Architecture|architecture]], [[F4.0 Technology|technology]], [[F8.0 Research|research]], and [[F11.0 Experiments|experiments]]. The name Lanya 蓝雅 (rhymes with (On-yah) is Mandarin for "blue elegance". I also go by Silvy, my nickname.
 
 ---
-
-- Read more about me [[A1.0 About Silvy|HERE]]
-- Check out my digital resume [[A2.0 Digital Resume|HERE]]
-- To learn more about how I created my digital garden, go [[A4.0 Lany4's Digital Garden|HERE]]
-
+## Important Pages
+- [[A1.0 About Silvy|About Me]]
+- [[A2.0 Digital Resume|Resume]]
 ---
 ## Recent Work
 Explore some of my recent work and projects across different fields.
